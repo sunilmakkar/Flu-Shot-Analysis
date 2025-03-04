@@ -93,6 +93,6 @@ A cumulative graph illustrating how many patients received the vaccine month by 
 
 ## How to Aceess the Project
 
-**1. SQL Scripts & Data**: 
-**2. Tableau Workshop**: 
-**3. Project Documentation**: 
+**1. SQL Scripts & Data**: https://github.com/sunilmakkar/Flu-Shot-Analysis/blob/main/flu_shot.sql
+**2. Tableau Workshop**: https://public.tableau.com/app/profile/sunil.makkar/viz/Immunization_17410445175520/Dashboard1
+**3. Project Documentation**: https://github.com/sunilmakkar/Flu-Shot-Analysis
