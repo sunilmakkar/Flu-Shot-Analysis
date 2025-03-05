@@ -48,18 +48,24 @@ In this analysis, we combined patient demographic data with immunization records
 
 1. **Compliance by Age**
 - Bar chart illustrating flu shot compliance across 0-17, 18-34, 35-49, 50-64, and 65+ age groups.
+![Dashboard Preview](images/flushotbyage.png)
+
 
 2. **Compliance by Race**
 - Bar chart comparing flu shot percentages for major racial categories.
+![Dashboard Preview](images/race.png)
 
 3. **Flu Shot % by County**
 - A filled map to identify geographic patterns and highlight counties with lower vaccination rates.
+![Dashboard Preview](images/flu-county.png)
 
 4. **Flu Shots List**
 - A table listing patient names and whether they received a flu shot. Useful for follow-up outreach.
+![Dashboard Preview](images/flu-shot-list.png)
 
 5. **Running Sum of Flu Shots (2022)**
 A cumulative graph illustrating how many patients received the vaccine month by month.
+![Dashboard Preview](images/running-sum-of-flu-shots-2022.png)
 
 ## 5. Business Insights & Visualizations
 
